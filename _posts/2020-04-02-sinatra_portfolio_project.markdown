@@ -5,7 +5,7 @@ date:       2020-04-02 08:52:39 -0400
 permalink:  sinatra_portfolio_project
 ---
 
-It's often easier to remember where an essential piece of information related to a task is is than it is to remember every detail about that piece of information. Even more difficult is learning the details of work that someone else left behind. These challenges are why every professional organization needs a system to help them keep track of what it needs to get done. 
+It's often easier to remember where an essential piece of information related to a task is is than it is to remember every detail about that piece of information. Even more difficult is learning the details of work that someone else left behind. These challenges are why every professional organization needs a system to help them keep track of what work it needs to do. 
 
 The Technical Support Network ticketing system is a simple tool for differentiating roles and allocating work. It takes on the challenges of providing a place where professionals can store what they need to know about each task they must complete. The system also shows a clear relationship between professionals and their customers, and it clearly shows a task's status. Lastly, this system  limits access to users where appropriate.
 
