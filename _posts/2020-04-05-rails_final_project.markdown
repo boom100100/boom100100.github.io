@@ -5,7 +5,7 @@ date:       2020-04-05 07:57:33 -0400
 permalink:  rails_final_project
 ---
 
-TBD
+TBC
 
 
 
