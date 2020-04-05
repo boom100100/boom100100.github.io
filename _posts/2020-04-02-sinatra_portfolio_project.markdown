@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sinatra Portfolio Project"
+title:      "Sinatra Final Project"
 date:       2020-04-02 08:52:39 -0400
 permalink:  sinatra_portfolio_project
 ---
