@@ -15,26 +15,5 @@ Students can associate themselves with courses and mark their progress in each c
 
 The user models also include admins. Other than having full control, the admins are different in that they aren't allowed to access the site as other user models are allowed to. An admin that already exists must create another admin, so there is no sign up flow for admins. Similarly, admins are not allowed to use the GitHub sign in flow, since that doubles as a way of signing up.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/boom100100/rails-portfolio-project
-https://github.com/boom100100/rails-portfolio-project
-https://github.com/boom100100/rails-portfolio-project
+Next steps include creating a ticket flow for technical issues and a comments flow for academic issues so that there can be clear documentation.
 
