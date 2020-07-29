@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The Big  Picture"
+title:      "The Big Picture"
 date:       2020-07-23 08:12:17 -0400
 permalink:  the_big_picture
 ---
@@ -12,6 +12,6 @@ While the bootcamp only has to go so far to teach web development principles, th
 
 Developing for these platforms requires knowledge of not just the base language, but also GUI programming principles as related to where the app will run. Also, Atom isn't the only integrated development environment. It's even possible to find IDEs that are specific to a destination platform.
 
-The realm of computers has even expanded. The Internet of Things is, in a sense, a less functional extension of robotics that allows people to put online devices that historically have lived exclusively offline. IoT devices send and receive data over the Internet.
+And then, there is DevOps, a growing area in platform development. DevOps relies on a number of pipeline-building and logging technologies to create infrastructure that supports, monitors, tests, and deploys developed applications. Infrastracture as Code tools like Ansible, Chef, and Puppet define system setups, while Continuous Integration / Continuous Delivery tools like Jenkins allow organizing and automating the work of receiving updated code, testing it, and even deploying it to a live environment. And, companies like AWS and Google Cloud Platform offer a wide range of services that include file storage, database solutions, and other infrastructure. Learn Docker and Kubernetes to learn about containers and container orchestration, respectively.
 
-Developers can have more flexibility when working in the realm of the IoT because its interface can be exclusively online. It may be excessive, and it's definitely limiting to plan that a device that already requires programming also ship with software that is platform-specific. However, any data storage would require infrastructure to support CRUD functionality and persistence, so this would likely require a few steps more than a typical web full stack.
+Some good places to start learning about deploying an application are Heroku and Netlify. Heroku requires PostGreSQL, so be sure to conform your database setup before deploying if your app has a database.
