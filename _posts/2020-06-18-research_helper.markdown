@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Research Helper"
+title:      "React Redux Final Project"
 date:       2020-06-18 11:17:16 -0400
 permalink:  research_helper
 ---
@@ -8,7 +8,7 @@ permalink:  research_helper
 
 Writing teachers are required to convince students to use reliable sources. But different teachers have different views on what is reliable. And, it is at the student's discretion to follow the advice of their instructors.
 
-My app brings these issues together to offer a solution that allows students to create research from a limited pool of sources. Search terms feed into two third-party APIs to deliver research from Wikipedia and a variety of sources that are more reliable. The user can then name a data point and write some paragraphs that explain how the research fits into the overall project. In other words, it's a way of constructing research papers around their data.
+My Research Helper app brings these issues together to offer a solution that allows students to create research from a limited pool of sources. Search terms feed into two third-party APIs to deliver research from Wikipedia and a variety of sources that are more reliable. The user can then name a data point and write some paragraphs that explain how the research fits into the overall project. In other words, it's a way of constructing research papers around their data.
 
 In addition to relying on APIs, the Chart.js library allows a user to add data they collected (presumably from their own experiment) and present it in a bar graph. The same space for naming and interpreting the data is available.
 
@@ -18,4 +18,4 @@ An uninspired student can find interesting topics by using another third-party A
 
 The backend of the app is Ruby on Rails. Since the frontend is in HTML/CSS/JavaScript, CORS connects the backend to the frontend by allowing the headers to go through. Also, the frontend is built in React, so Redux and Thunk are necessary to separate the data from the app and allow persistence.
 
-Next steps include allowing teachers to choose from a pool of research sources, instead of the developer choosing the sources.
+Next steps include allowing teachers to choose from a pool of research sources, instead of the developer choosing the sources. Also, the app only supports creating bar graphs, but it can utilize Chart.js more thoroughly by allowing plot charts, pie charts, and other diagrams.
