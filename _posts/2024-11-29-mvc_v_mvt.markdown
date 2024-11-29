@@ -28,4 +28,4 @@ Here is a table demonstrating the difference (or lack thereof).
 
 Even though the difference is just a matter of words, it is crucial to use the matching pattern name when holding discussions about API frameworks. Flask view parent classes have the name "view" in them, so calling them "controllers" leaves developers at a loss of where to find them if they are too inexperienced to have encountered both MVC and MVT. Also, both pattern names include the words "view" and "model." "Model" ends up being acceptable as a universal term because it doesn't change meaning. "View" does change meaning, so its meaning won't be obvious in a conversation if there's no explicit statement concerning which pattern someone is referring to.
 
-Code don't lie. And neither does patterns.
+Code don't lie. And neither do patterns.
