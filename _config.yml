@@ -1,11 +1,11 @@
 # Site settings
 author: Bernadette Davis
-title: App Introductions
+title: Tech Blog
 header-img: img/home-bg.png
-email: bsd231@nyu.edu
+email: info@automatedbooks.com
 copyright_name: Bernadette Davis
 description: > # this means to ignore newlines until "baseurl:"
-  An explanation of learn.co final projects
+  Technical explanations I've needed along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  boom100100
