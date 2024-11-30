@@ -2,6 +2,7 @@
 layout: post
 title:      "Code Challenge Types"
 permalink:  code_challenge_types
+published: false
 ---
 
 

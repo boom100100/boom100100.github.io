@@ -2,6 +2,7 @@
 layout: post
 title:      "CLI Final Project: The Blackjack Card Counting Trainer"
 permalink:  blackjack_card_counting_trainer
+published: false
 ---
 
 
