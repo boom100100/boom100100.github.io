@@ -1,7 +1,6 @@
 ---
 layout: post
 title:      "Doing 90-Degree Rotation of Elements in a Matrix"
-date:       2020-08-20 14:16:21 +0000
 permalink:  doing_90-degree_rotation_of_elements_in_a_matrix
 ---
 
@@ -9,7 +8,7 @@ permalink:  doing_90-degree_rotation_of_elements_in_a_matrix
 
 ## Problem:
 
-Rotate a matrix in shape of X.length, Y.length where X is elements in an outer level and Y is elements in an inner level.
+Rotate a matrix in shape of X.length, Y.length where X is elements in the outer level and Y is elements in each inner level.
 Assume X.length == Y.length.
 Also assume X must be an odd number.
 

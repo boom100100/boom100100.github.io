@@ -1,7 +1,6 @@
 ---
 layout: post
 title:      "Code Challenge Types"
-date:       2020-08-14 21:29:14 +0000
 permalink:  code_challenge_types
 ---
 
