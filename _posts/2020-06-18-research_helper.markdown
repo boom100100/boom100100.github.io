@@ -1,8 +1,7 @@
 ---
 layout: post
-title:      "React Redux Final Project"
-date:       2020-06-18 11:17:16 -0400
-permalink:  research_helper
+title:      "React Redux Final Project: The Research Helper Form Builder"
+permalink:  research_helper_form_builder
 ---
 
 

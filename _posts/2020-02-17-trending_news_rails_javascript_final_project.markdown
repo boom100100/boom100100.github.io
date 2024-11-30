@@ -1,8 +1,7 @@
 ---
 layout: post
-title:      "Trending News Rails/Javascript Final Project"
-date:       2020-02-17 10:50:44 -0500
-permalink:  trending_news_rails_javascript_final_project
+title:      "Rails/Javascript Final Project: Trending News"
+permalink:  trending_news
 ---
 
 Twitter has a massive pool of data consisting of tweets and collections that they have organized by various categories. Even better, Twitter has made that data available to developers in its own API. Various news sites have a comparable dataset, and they have also exposed that data in numerous APIs. The marriage between these two types of resources is the inspiration for my app, Trending News (TN).

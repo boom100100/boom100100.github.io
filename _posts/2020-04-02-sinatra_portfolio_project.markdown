@@ -1,8 +1,7 @@
 ---
 layout: post
-title:      "Sinatra Final Project"
-date:       2020-04-02 08:52:39 -0400
-permalink:  sinatra_portfolio_project
+title:      "Sinatra Final Project: A Ticketing System"
+permalink:  ticketing_system
 ---
 
 It's often easier to remember where an essential piece of information related to a task is is than it is to remember every detail about that piece of information. Even more difficult is learning the details of work that someone else left behind. These challenges are why every professional organization needs a system to help them keep track of what work it needs to do. 
