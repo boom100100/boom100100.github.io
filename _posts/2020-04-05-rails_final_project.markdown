@@ -1,8 +1,7 @@
 ---
 layout: post
-title:      "Rails Final Project"
-date:       2020-04-05 07:57:33 -0400
-permalink:  rails_final_project
+title:      "Rails Final Project: The Online Learning Platform"
+permalink:  online_learning_platform
 ---
 
 Online learning has a lot to offer. Teachers need a way of organizing and delivering their content, and students need to access their teachers' resources and track their progress. Organizing and tracking progress for content via a website is a simple way to centralize learning.

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:      "The Big Picture"
-date:       2020-07-23 08:12:17 -0400
-permalink:  the_big_picture
+title:      "The Big Picture: A Brief Curriculum Explainer"
+permalink:  brief_curriculum_explainer
 ---
 
 
