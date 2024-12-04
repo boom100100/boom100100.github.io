@@ -1,8 +1,8 @@
 ---
 layout: post
-title:      "MVC v. MVT"
+title:      "Web Framework Comparison and Language Use: MVC v. MVT"
 date:       2024-11-29 09:46:57 -0400
-permalink:  mvc_v_mvt
+permalink: web_framework_comparison_and_language_use_mvc_v_mvt
 ---
 
 
@@ -12,7 +12,7 @@ Flask is essentially derivative of Django. The main difference between the two i
 
 Where these two fundamentally differ from .NET is simply a matter of words.
 
-C#'s .NET framework follows the model-view-controller (MVC) pattern. An API built in a MVC framework receives a request via the controller and responds, still via the controller, with data. That data takes the form of json, a fully renderable page, or one of a bunch of other potential ways of packaging data. This data response makes up the view. The controller directly or indirectly calls some CRUD operation  to interact with the model. And then any relevant information from the model is integrated into the view.
+C#'s .NET framework follows the model-view-controller (MVC) pattern. An API built in a MVC pattern receives a request via the controller and responds, still via the controller, with data. That data takes the form of json, a fully renderable page, or one of a bunch of other potential ways of packaging data. This data response makes up the view. The controller directly or indirectly calls some CRUD operation  to interact with the model. And then any relevant information from the model is integrated into the view.
 
 Flask and Django call this control flow the model-view-template (MVT) pattern. Instead of a controller, the view is the receiver of the API request, and the view sends the packaged response data. "Template" is a confusing word to use, since it implies server-side rendering and jinja templates. But the template is the data response, however that is packaged. In this pattern, the model remains the same.
 
